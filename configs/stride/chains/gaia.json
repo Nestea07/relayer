@@ -1,9 +1,9 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "rues",
+    "key": "nestea",
     "chain-id": "GAIA",
-    "rpc-addr": "http://38.242.159.74:23657",
+    "rpc-addr": "http://194.163.152.31:23657",
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
